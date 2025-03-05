@@ -12,7 +12,7 @@
 </div>
 
 <h3 align="center">
-          Live Project :  https://evagoel.github.io/Incruiter/
+          Live Project : https://evagoel.github.io/Incruiter_new/
 </h3>
 <br />
 
